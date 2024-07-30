@@ -1,5 +1,5 @@
 {
-	"name": "@cookr/whitelist",
+	"name": "cookr-whitelist",
 	"version": "1.0.0",
 	"description": "A package exporting a whitelist array for Cookr.",
 	"main": "index.js",
