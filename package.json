@@ -1,6 +1,6 @@
 {
   "name": "cookr-whitelist",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package exporting a whitelist array for Cookr.",
   "main": "index.js",
   "scripts": {
