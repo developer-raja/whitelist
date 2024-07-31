@@ -1,15 +1,15 @@
 {
-	"name": "cookr-whitelist",
-	"version": "1.0.0",
-	"description": "A package exporting a whitelist array for Cookr.",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [
-		"whitelist",
-		"cookr"
-	],
-	"author": "Cookr",
-	"license": "ISC"
+  "name": "cookr-whitelist",
+  "version": "1.0.1",
+  "description": "A package exporting a whitelist array for Cookr.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whitelist",
+    "cookr"
+  ],
+  "author": "Cookr",
+  "license": "ISC"
 }
